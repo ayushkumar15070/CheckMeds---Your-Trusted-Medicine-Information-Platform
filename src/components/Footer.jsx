@@ -152,7 +152,7 @@ const Footer = () => {
                                                       onClick={handlePhoneClick}
                                                       className="text-gray-300 hover:text-white transition-colors text-sm cursor-pointer"
                                                 >
-                                                      +91 7307333219
+                                                      +91 0123456789
                                                 </button>
                                           </div>
                                           <div className="flex items-start space-x-3">
