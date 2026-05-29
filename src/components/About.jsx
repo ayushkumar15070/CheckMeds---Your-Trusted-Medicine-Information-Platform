@@ -12,7 +12,7 @@ const About = ({ user }) => {
                                     About CheckMeds
                               </h1>
                               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                                    Your trusted Ayush Kumar Vishwakarma companion for reliable medicine information, personalized insights,
+                                    Your trusted companion for reliable medicine information, personalized insights,
                                     and expert medical guidance all in one comprehensive platform.
                               </p>
                         </div>
